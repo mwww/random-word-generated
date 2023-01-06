@@ -14,3 +14,6 @@ for example, if you want word with 3 letters in it, consised of alphanumeric, re
 
 Q: why there aren't any "unreadable" word?
 A: is is still called word if it isn't readable?
+
+Q: why is it divided into parts?
+A: because it is faster to that way(you can regenerate i using my [generator](https://github.com/MWWW/go-random-word-generator) if you want.)
